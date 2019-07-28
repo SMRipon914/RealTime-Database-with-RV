@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141016063287",
+    "firebase_url": "https://realtimedatabase-a1603.firebaseio.com",
+    "project_id": "realtimedatabase-a1603",
+    "storage_bucket": "realtimedatabase-a1603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141016063287:android:4237ae25b6a9d896",
+        "android_client_info": {
+          "package_name": "com.topall.realimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141016063287-bk12ncj04bbbf9ialkamollqk0sve43f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topall.realimedatabase",
+            "certificate_hash": "a4c792724379b79335303e64d103b8ead31ef954"
+          }
+        },
+        {
+          "client_id": "141016063287-drlh42vloknsshhidig0m27234gl1hqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDImMXf__PIM1sEkaZ7TAkvaOl1kJ9E5uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141016063287-drlh42vloknsshhidig0m27234gl1hqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
